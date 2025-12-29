@@ -18,7 +18,7 @@ and counting them only once when they cross predefined virtual lines.
 - People detection using YOLOv8
 - Object tracking with SORT algorithm
 - Direction-based counting (Up / Down)
-- ROI masking for improved accuracy
+- ROI mask and limit lines determined using a mouse-click script
 - Prevention of double counting using unique track IDs
 
 ---
