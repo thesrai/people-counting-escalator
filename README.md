@@ -48,6 +48,11 @@ and counting them only once when they cross predefined virtual lines.
 
 ---
 
+## Limitation
+Children walking close to adults may not be detected due to occlusion and small object size.
+
+---
+
 ## Installation
 Clone the repository and install the required dependencies.
 
